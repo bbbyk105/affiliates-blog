@@ -10,10 +10,13 @@
   },
   "dependencies": {
     "@supabase/ssr": "^0.7.0",
+    "clsx": "^2.1.1",
+    "microcms-js-sdk": "^3.2.0",
     "next": "15.5.3",
     "openai": "^5.22.0",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "tailwind-merge": "^3.3.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
